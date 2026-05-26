@@ -1,7 +1,6 @@
-#
+# Calculate the Average of a Set of Numbers
 
-1. Calculate the Average of a Set of Numbers
-   You’re tasked with creating a program that calculates the average score for a class. The program should:
+You’re tasked with creating a program that calculates the average score for a class. The program should:
 
 Take a list of student scores as input.
 Add up all the scores.
